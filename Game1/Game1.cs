@@ -48,7 +48,7 @@ namespace Game1
         string textStart = "Press SPACE to start the game";
         string textReady = "Press SPACE when you ready to next round";
 
-        GameState myGameState = GameState.END;
+        GameState myGameState = GameState.START;
 
         int SCREEN_WIDTH;
         int SCREEN_HEIGHT;

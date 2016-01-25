@@ -60,6 +60,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Icon.ico" />
+    <Content Include="screenshot\ss-end.png" />
+    <Content Include="screenshot\ss-ingame.png" />
+    <Content Include="screenshot\ss-start.png" />
   </ItemGroup>
   <ItemGroup>
     <MonoGameContentReference Include="Content\Content.mgcb">
